@@ -39,7 +39,7 @@ AI-Travel-Planner-for-Students/
 
 ## Screenshots
 
-
+Screenshot 2026-02-27 211236.png
 
 ---
 
