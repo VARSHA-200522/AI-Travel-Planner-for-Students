@@ -35,11 +35,6 @@ AI-Travel-Planner-for-Students/
 └── README.md
 ```
 
----
-
-## Screenshots
-
-Screenshot 2026-02-27 211236.png
 
 ---
 
