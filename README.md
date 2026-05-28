@@ -39,11 +39,7 @@ AI-Travel-Planner-for-Students/
 
 ## Screenshots
 
-### Home Page
-![Home](screenshots/homepage.png)
 
-### Output Page
-![Output](screenshots/output.png)
 
 ---
 
